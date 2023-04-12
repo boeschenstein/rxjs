@@ -4,18 +4,6 @@ Docs: <https://rxjs.dev/>
 
 Decision Tree: <https://rxjs.dev/operator-decision-tree>
 
-## Actions
-
-### Action hygiene
-
-Action hygiene is important: <https://www.youtube.com/watch?v=JmnsEvoy-gY>
-
-> Do not reuse actions for different scenarios
-
-```js
-[Source] Event
-```
-
 ## switchMap, mergeMap, concatMap, and exhaustMap
 
 -🤯mergeMap: I'm a hard worker, I can prepare multiple orders at the same time ! But I don't respect orders sequence.
